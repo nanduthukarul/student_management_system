@@ -1,5 +1,12 @@
 # student_management_system
-This project will enable admin to store and access students, course records. And students can view and update their profile by after validating themself.
+This is a Springboot project, will enable admin to store and access students, course records. And students can view and update their profile by after validating themself.
+
+Tools and Dependencies use
+	JPA with Hibernate
+	Spring Security
+	spring web
+
+------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Following are URLs and Required inputs for all the operations
 
