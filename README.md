@@ -14,7 +14,8 @@ For all student operations Authorization not required, But for validation 'Stude
 Admin Operations:
 
 1. Save new student record
-	URL : http://localhost:8080/student_management_system/student	
+	URL : 
+		http://localhost:8080/student_management_system/student	
 	Authentication Required : Yes
 	Input Parameters:
 		RequestBody : Student object
